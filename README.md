@@ -1,4 +1,11 @@
-# Hodiny v2 (ESP32-S3)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/esp32pcb/hodiny/blob/main/cas%20vecer.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/esp32pcb/hodiny/blob/main/hodiny%20svitici%20light.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
+# HODINY NA MATICOVEM DISPLEJI RIZENE SNTP Z INTERNETU VERZE 2
+## hodiny na led displeji 32x8 s max7219
 
 Druha verze otevreneho projektu **Hodiny**, tentokrat postavena na mikrokontroleru **ESP32-S3 N16/R8** čímž se zvětšila jak FLASH na 16MB tak PS-RAM na 8 MB.
 Rozmerove i funkcne je projekt stejny jako [prvni verze hodin](https://github.com/esp32pcb/hodiny) (ESP32-WROOM), meni se pouze pouzity modul a chip.
