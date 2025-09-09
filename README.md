@@ -12,13 +12,13 @@ Rozmerove i funkcne je projekt stejny jako [prvni verze hodin](https://github.co
 Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavovat budík.
 
 ## Funkce
-- nastaveni WiFi pomoci mobilni aplikace **ESPTOUCH SMARTCONFIG** (funguje take **ESP CONFIG**)  
-- upgrade firmware pres **OTA**  
-- nastaveni intensity displeje podle okolniho svetla  
-- cas je rizeny z **SNTP**  
-- datum a kdo ma svatek kazdou 1 minutu  
-- podpora senzoru **HDC1080** (teplota a vlhkost)  
-- **stopky – casomira 0–99 s po milisekundach**  
+- nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG. funguje take [ESP CONFIG](https://play.google.com/store/apps/details?id=com.techbot.smart_config)
+- upgrade firmware pres OTA
+- nastaveni intensity displeje podle okolniho svetla ( na to je tam ta ledka )
+- cas je rizeny z SNTP
+- datum a kdo ma svatek co 1 minutu
+- pokud je pridan [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) na I2C sbernici tak zobrazuje take teplotu a vlhkost
+- stopky - [časomíra](https://youtu.be/6PLG5gm5gp4) 0-99s po milisekundách  
 
 ## Hardware
 - ESP32-S3 (N16/R8)  
