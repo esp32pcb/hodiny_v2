@@ -37,13 +37,13 @@ Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavo
 - pripojite se mobilem na 2,4 Gb sit na ktere budou pripojeny take vase hodiny. Musi byt 2.4 Gb! 5Gb ESP neumi!
 
 - Neni li v okoli znama wifi sit zustanou hodiny tmave a svítí led v pravém horním rohu. Pozdejsi verze uz maji napis "wifi?"
-- stisknete tlacitko S2 na dobu delsi nez 5 sekund. na displeji projede napis "mobil - start smart config"
+- stisknete tlacitko SW2 na dobu delsi nez 5 sekund. na displeji projede napis "mobil - start smart config"
 - spustite aplikaci ESPTOUCH SMARTCONFIG, vyplnite heslo k vasi wifi a stisknete connect.
 - hned aktualizujte firmware pro nejnovejsi firmware.
 
   ## aktualizace firmware
 Po připojení na WiFi si zkuste aktualizovat firmware.
-Tlacitko S1 držte déle než 5s a aktualizace se spustí.
+Tlacitko SW1 držte déle než 5s a aktualizace se spustí.
 
 ## jak se dostat na webove rozhrani hodin
 - po restartu hodin se na displeji ukaze IP adresa kde naleznete webove stranky hodin. napr. IP: 192.168.1.23.
@@ -51,7 +51,7 @@ Tlacitko S1 držte déle než 5s a aktualizace se spustí.
 - prohlizec sice nahlasi, ze stranky jsou nezabezpecene ale klidne se na ne pripojte.
 - muzete si prochazet nastaveni (casem se budou pridavat funkce)
 - naleznete tam take browser, kdo to umi muze si editovat webove stranky, napr menit barvy atd.
-- pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci G34 a stranky se obnovi do puvodniho stavu.
+- pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci SW1 a stranky se obnovi do puvodniho stavu.
 
 # kontakt
 Marcel Juchelka
