@@ -12,6 +12,7 @@ Rozmerove i funkcne je projekt stejny jako [prvni verze hodin](https://github.co
 Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavovat budík.
 
 ## Funkce
+- webove rozhrani pro nastavovani hodin.
 - nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG. funguje take [ESP CONFIG](https://play.google.com/store/apps/details?id=com.techbot.smart_config)
 - upgrade firmware pres OTA
 - nastaveni intensity displeje podle okolniho svetla ( na to je tam ta ledka )
@@ -43,6 +44,14 @@ Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavo
   ## aktualizace firmware
 Po připojení na WiFi si zkuste aktualizovat firmware.
 Tlacitko S1 držte déle než 5s a aktualizace se spustí.
+
+## jak se dostat na webove rozhrani hodin
+- po restartu hodin se na displeji ukaze IP adresa kde naleznete webove stranky hodin. napr. IP: 192.168.1.23.
+- spustite svuj oblibeny webovy prohlizec a do adresniho radku zadate jenom 192.168.1.23.
+- prohlizec sice nahlasi, ze stranky jsou nezabezpecene ale klidne se na ne pripojte.
+- muzete si prochazet nastaveni (casem se budou pridavat funkce)
+- naleznete tam take browser, kdo to umi muze si editovat webove stranky, napr menit barvy atd.
+- pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci G34 a stranky se obnovi do puvodniho stavu.
 
 # kontakt
 Marcel Juchelka
