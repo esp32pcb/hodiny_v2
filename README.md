@@ -53,6 +53,8 @@ Tlacitko SW1 držte déle než 5s a aktualizace se spustí.
 - naleznete tam take browser, kdo to umi muze si editovat webove stranky, napr menit barvy atd.
 - pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci SW1 a stranky se obnovi do puvodniho stavu.
 
+## vice informaci
+- najdete na [WIKI](https://github.com/esp32pcb/hodiny_v2/wiki)
 # kontakt
 Marcel Juchelka
 esp32hodiny@gmail.com
