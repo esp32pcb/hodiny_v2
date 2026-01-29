@@ -10,7 +10,8 @@
 Druha verze otevreneho projektu **Hodiny**, tentokrat postavena na mikrokontroleru **ESP32-S3 N16/R8** čímž se zvětšila jak FLASH na 16MB tak PS-RAM na 8 MB.
 Rozmerove i funkcne je projekt stejny jako [prvni verze hodin](https://github.com/esp32pcb/hodiny) (ESP32-WROOM), meni se pouze pouzity modul a chip.
 Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavovat budík.
-
+## UPOZORNENI
+- naflashujte si novy [firmware](https://github.com/esp32pcb/hodiny_v2/wiki/firmware)! 
 ## Funkce
 - webove rozhrani pro nastavovani hodin.
 - nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG. funguje take [ESP CONFIG](https://play.google.com/store/apps/details?id=com.techbot.smart_config)
