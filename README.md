@@ -11,6 +11,7 @@ Druha verze otevreneho projektu **Hodiny**, tentokrat postavena na mikrokontrole
 Rozmerove i funkcne je projekt stejny jako [prvni verze hodin](https://github.com/esp32pcb/hodiny) (ESP32-WROOM), meni se pouze pouzity modul a chip.
 Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavovat budík.
 ## UPOZORNENI
+29.1.2026
 - naflashujte si novy [firmware](https://github.com/esp32pcb/hodiny_v2/wiki/firmware)! 
 ## Funkce
 - webove rozhrani pro nastavovani hodin.
