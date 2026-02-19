@@ -15,6 +15,7 @@ Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavo
 - Stahnete si novy [firmware](https://github.com/esp32pcb/hodiny_v2/wiki/firmware)! 
 ## Funkce
 - webove rozhrani pro nastavovani hodin.
+- eventy - moznost si u kazdeho dne nastavit napr. narozeniny rodinnych prislusniku
 - nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG. funguje take [ESP CONFIG](https://play.google.com/store/apps/details?id=com.techbot.smart_config)
 - upgrade firmware pres OTA
 - nastaveni intensity displeje podle okolniho svetla ( na to je tam ta ledka )
