@@ -48,7 +48,32 @@ Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavo
 Po připojení na WiFi si zkuste aktualizovat firmware.
 Tlacitko SW1 držte déle než 5s a aktualizace se spustí.
 
+
 ## jak se dostat na webove rozhrani hodin
+<table>
+<tr>
+<td align="center">
+<a href="docs/img/browser.jpg">
+<img src="docs/img/browser.jpg" width="150">
+</a><br>
+Browser
+</td>
+
+<td align="center">
+<a href="docs/img/eventy.jpg">
+<img src="docs/img/eventy.jpg" width="150">
+</a><br>
+Eventy
+</td>
+
+<td align="center">
+<a href="docs/img/nastaveni.jpg">
+<img src="docs/img/nastaveni.jpg" width="150">
+</a><br>
+Nastaveni
+</td>
+</tr>
+</table>
 - po restartu hodin se na displeji ukaze IP adresa kde naleznete webove stranky hodin. napr. IP: 192.168.1.23.
 - spustite svuj oblibeny webovy prohlizec a do adresniho radku zadate jenom 192.168.1.23.
 - prohlizec sice nahlasi, ze stranky jsou nezabezpecene ale klidne se na ne pripojte.
