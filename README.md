@@ -6,10 +6,26 @@
 
 # HODINY NA MATICOVEM DISPLEJI RIZENE SNTP Z INTERNETU VERZE 2
 ## hodiny na led displeji 32x8 s max7219
-
+----------------------------------------------------------------
 Druha verze otevreneho projektu **Hodiny**, tentokrat postavena na mikrokontroleru **ESP32-S3 N16/R8** čímž se zvětšila jak FLASH na 16MB tak PS-RAM na 8 MB.
 Rozmerove i funkcne je projekt stejny jako [prvni verze hodin](https://github.com/esp32pcb/hodiny) (ESP32-WROOM), meni se pouze pouzity modul a chip.
 Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavovat budík.
+
+## Podpora a komunita
+
+Oficiální stránka projektu:
+https://facebook.com/ceskechytrehodiny
+
+Zde najdete:
+- oznámení nových verzí firmware
+- řešení problémů
+- tipy a nastavení
+- návrhy nových funkcí od uživatelů
+
+## Pokud hodiny vlastníte, doporučuji stránku sledovat.
+----------------------------------------------------------------
+
+
 ## UPOZORNENI
 29.1.2026
 - Stahnete si novy [firmware](https://github.com/esp32pcb/hodiny_v2/wiki/firmware)! 
