@@ -9,7 +9,7 @@
 ----------------------------------------------------------------
 Druha verze otevreneho projektu **Hodiny**, tentokrat postavena na mikrokontroleru **ESP32-S3 N16/R8** čímž se zvětšila jak FLASH na 16MB tak PS-RAM na 8 MB.
 Rozmerove i funkcne je projekt stejny jako [prvni verze hodin](https://github.com/esp32pcb/hodiny) (ESP32-WROOM), meni se pouze pouzity modul a chip.
-Je přidán ještě výstup pro piezo nebo jiný pípání když se bude nastavovat budík.
+Je přidán ještě [výstup pro piezo](https://youtu.be/Sh12l6RSNMs) nebo jiný pípání když se bude nastavovat budík.
 
 ## Podpora a komunita
 
